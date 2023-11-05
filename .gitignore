@@ -3,3 +3,6 @@
 *.cbp
 *.o
 *.exe
+*/bin/
+*/bin
+
