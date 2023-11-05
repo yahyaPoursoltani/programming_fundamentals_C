@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1699176087 source:/home/poursoltani/CProgrammingCource/Chapter_02_getting_started_and_Variables/EX_40_arithmaticSequence_using_while/main.c
+	<stdio.h>
+	<stdlib.h>
+
