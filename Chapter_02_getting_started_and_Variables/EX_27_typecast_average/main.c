@@ -13,7 +13,7 @@ int main()
     printf("Enter second Number : ");
     scanf("%d", &number2);
 
-    average = (float)(number1+number2)/2;
+    average = (float)(number1+number2)/2; //type cast from int to float
 
     printf("Average = %f\n",average);
 
